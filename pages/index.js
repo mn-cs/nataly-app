@@ -1,5 +1,5 @@
-import App from './src/[App]/App.jsx'
-import styles from '../styles/Home.module.css'
+import App from './[App]/App.jsx'
+// import styles from '../styles/Home.module.css'
 
 export default function Home() {
   return (
