@@ -1,0 +1,34 @@
+.body {
+    margin: auto;
+    max-width: 900px;
+    .group {
+        height: 500px;
+        width: 100%;
+        padding: 10px;
+        box-sizing: border-box;
+        display: flex;
+        flex-direction: column;
+        .img {
+            background-color: rgb(237, 226, 245);
+            height: 300px;
+            margin: 10px;
+            border-radius: 7px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-size: 50px;
+            color: gray;
+        }
+        .text {
+            background-color: rgb(219, 213, 213);
+            height: 120px;
+            margin: 10px;
+            border-radius: 7px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-size: 50px;
+            color: gray;
+        }
+    }
+}
