@@ -5,7 +5,7 @@ const Header = () => {
     return  (
         <div className={style.header}>
             <div className={style.logo}>
-                Natalie's blog
+                Natalie's blog &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; hopary gandz
             </div>
             <div className={style.menu}>
                 
