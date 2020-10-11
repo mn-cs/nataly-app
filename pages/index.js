@@ -1,5 +1,5 @@
 import Head from 'next/head'
-import App from './[App]/App.jsx'
+import App from './App'
 // import styles from '../styles/Home.module.css'
 
 export default function Home() {
